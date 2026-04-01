@@ -206,7 +206,7 @@ Waveforms were analyzed to verify correct timing and functionality.
 
 ---
 
-## 👤 Author
+## 
 **David Kumar**  
 B.Tech Electrical Engineering  
 IIT Indore  
